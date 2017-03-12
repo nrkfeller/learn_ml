@@ -1,0 +1,9 @@
+https://github.com/budmitr/udacity-deep-learning/blob/master/5_word2vec.ipynb
+
+https://github.com/hankcs/udacity-deep-learning/blob/master/5_word2vec.py
+
+https://github.com/giubil/udacity-deep-learning
+
+https://github.com/santiaago/udacity.ud730.deeplearning/blob/master/assignments
+
+https://github.com/napsternxg/Udacity-Deep-Learning
