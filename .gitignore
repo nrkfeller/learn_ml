@@ -8,3 +8,5 @@ data/
 MNIST_data/
 notMNIST*
 text8*
+env/
+mlc

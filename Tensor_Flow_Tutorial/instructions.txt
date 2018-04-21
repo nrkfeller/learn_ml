@@ -1,8 +1,0 @@
-# Get working kernel for jupyter and virtualenv
-
-1. create virtual env
-2. activate virtual env
-3. go installations for copde
-4. ```pip install ipykernel```
-6. ```python -m ipykernel install --user --name ENVNAME```
-7. Launch ```jupyter notebook```
